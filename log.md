@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 2, Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started with node.js from udemy course, understanding how JavaScript works outside web browsers and setting up node.js on the machine.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I was unable to start DSA today, will extra hard tomorrow to start dsa and get deeper into Node.js
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: July 3, Wednesday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: 
+- Created a simple web server, explored modules and async nature of Node.js
+- Completed L1 of Linked List | Striver, practiced 5 Basic LL questions.
+- Made reusable HTML/CSS components.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Today was overall really productive, created 3 HTML and CSS components and delved deep into Node.js. I feel restless if I will be able to carry this strak forward.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Introduction to Linked List](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0)
+2. [Length of a linked List](https://www.naukri.com/code360/problems/count-nodes-of-linked-list_5884?utm_source=youtube&utm_medium=affiliate&utm_campaign=Codestudio_Linkedlistseries&leftPanelTabValue=SUBMISSION)
+3. [Check if K exist in LL](https://www.naukri.com/code360/problems/search-in-a-linked-list_975381?utm_source=youtube&utm_medium=affiliate&utm_campaign=Codestudio_Linkedlistseries&leftPanelTabValue=SUBMISSION)
+4. [Print the elements of LL](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1?page=1&category=Linked%20List&sortBy=difficulty)
+5. [Check if LL is even/odd length](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1?page=1&category=Linked%20List&sortBy=difficulty)
+6. [Check is LL is circular LL](https://www.geeksforgeeks.org/problems/circular-linked-list/1?page=1&category=Linked%20List&sortBy=difficulty)
