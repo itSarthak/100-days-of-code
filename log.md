@@ -22,3 +22,13 @@
 4. [Print the elements of LL](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1?page=1&category=Linked%20List&sortBy=difficulty)
 5. [Check if LL is even/odd length](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1?page=1&category=Linked%20List&sortBy=difficulty)
 6. [Check is LL is circular LL](https://www.geeksforgeeks.org/problems/circular-linked-list/1?page=1&category=Linked%20List&sortBy=difficulty)
+
+### Day 2: July 4, Thursday
+
+**Today's Progress**: 
+- Delved further into concepts of Node.js, learned about routine, and made a simple web API to fetch data.
+- Made web application layouts in HTML CSS 
+- Unfortunately, I couldn't make time for DSA today
+
+**Thoughts:** While I wanted to learn and do more I was bound by some other work so couldn't invest as much time as I'd like to but I am happy I still got to code today. Also, I feel restlessness after EOD, as if I am still lagging so much behind. 
+
