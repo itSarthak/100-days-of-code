@@ -22,7 +22,6 @@
 4. [Print the elements of LL](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1?page=1&category=Linked%20List&sortBy=difficulty)
 5. [Check if LL is even/odd length](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1?page=1&category=Linked%20List&sortBy=difficulty)
 6. [Check is LL is circular LL](https://www.geeksforgeeks.org/problems/circular-linked-list/1?page=1&category=Linked%20List&sortBy=difficulty)
-7. 
 
 ### Day 2: July 4, Thursday
 
@@ -48,3 +47,11 @@
 - Attended #leetcode biweekly contest 134, able to solve (1/4) problems only.
 
 **Thoughts:** I couldn't do much today as I had a really bad headache and placement drive ate all my day today. I was unable to make it through the first round only, although I knew 2/3 questions I was not well-versed with hackerearth environment which led me to fail the first round. I will focus more on dsa now. Also in the contest I was able to do only (1/4) questions, I am very disappointed in myself.
+
+### Day 5: July 7, Thursday
+
+**Today's Progress**: 
+- Made a calculator application with HTML, css and js, covered some test cases but some are yet to be covered. Will cover them in the upcoming week
+- Made a qrcode generator in python, it was super fun and easy. I will make some more next weekend
+
+**Thoughts:** It was a fun day overall, spent most of my time coding, had a call with someone who made me realise that I still don't know anything and there's a long journey ahead. I need to put atleast 6 more months into upskilling in MERN stack to call myself recruitable. I will grind a lot of DSA tomorrrow.
