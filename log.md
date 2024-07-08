@@ -33,7 +33,7 @@
 **Thoughts:** While I wanted to learn and do more I was bound by some other work so couldn't invest as much time as I'd like to but I am happy I still got to code today. Also, I feel restlessness after EOD, as if I am still lagging so much behind. 
 
 
-### Day 3: July 5, Thursday
+### Day 3: July 5, Friday
 
 **Today's Progress**: 
 - Made a simple Node.js application which fetches the data from a json file
@@ -41,17 +41,33 @@
 **Thoughts:** I find Node.js interesting and now I somewhat regret not learning it earlier. But there are plenty of other technologies that I haven't explored yet which might be interesting, so there's no point regretting. I am excited about the on-campus placement drive tomorrow.
 
 
-### Day 4: July 6, Thursday
+### Day 4: July 6, Saturday
 
 **Today's Progress**: 
 - Attended #leetcode biweekly contest 134, able to solve (1/4) problems only.
 
 **Thoughts:** I couldn't do much today as I had a really bad headache and placement drive ate all my day today. I was unable to make it through the first round only, although I knew 2/3 questions I was not well-versed with hackerearth environment which led me to fail the first round. I will focus more on dsa now. Also in the contest I was able to do only (1/4) questions, I am very disappointed in myself.
 
-### Day 5: July 7, Thursday
+### Day 5: July 7, Sunday
 
 **Today's Progress**: 
 - Made a calculator application with HTML, css and js, covered some test cases but some are yet to be covered. Will cover them in the upcoming week
 - Made a qrcode generator in python, it was super fun and easy. I will make some more next weekend
 
-**Thoughts:** It was a fun day overall, spent most of my time coding, had a call with someone who made me realise that I still don't know anything and there's a long journey ahead. I need to put atleast 6 more months into upskilling in MERN stack to call myself recruitable. I will grind a lot of DSA tomorrrow.
+**Thoughts:** It was a fun day overall, spent most of my time coding, had a call with someone who made me realise that I still don't know anything and there's a long journey ahead. I need to put atleast 6 more months into upskilling in MERN stack to call myself recruitable. I will grind a lot of DSA tomorrow.
+
+### Day 6: July 3, Monday
+
+**Today's Progress**: 
+- Completed Node Farm application | Learned basic APIs, NPM, and versioning.
+- Revised Hashing & Sorting - I from striver | Solved easy 6 dsa questions.
+
+**Thoughts:** Most of my day got eaten up by dsa, tomorrow the first thing I am doing after waking up is development. I feel more that I am getting control over life and yes I am somewhat late but at least I am here, learning and making efforts.
+
+**Link(s) to work**
+1. [Count pair for given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=1&category=Hash&sortBy=submissions)
+2. [Union of Two arrays](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1?page=1&category=Hash&sortBy=submissions)
+3. [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&category=Hash&sortBy=submissions)
+4. [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort)
+5. [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort)
+6. [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/0?category%5B%5D=Algorithms&page=1&query=category%5B%5DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort)
