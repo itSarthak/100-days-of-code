@@ -56,7 +56,7 @@
 
 **Thoughts:** It was a fun day overall, spent most of my time coding, had a call with someone who made me realise that I still don't know anything and there's a long journey ahead. I need to put atleast 6 more months into upskilling in MERN stack to call myself recruitable. I will grind a lot of DSA tomorrow.
 
-### Day 6: July 3, Monday
+### Day 6: July 8, Monday
 
 **Today's Progress**: 
 - Completed Node Farm application | Learned basic APIs, NPM, and versioning.
@@ -71,3 +71,21 @@
 4. [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort)
 5. [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort)
 6. [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/0?category%5B%5D=Algorithms&page=1&query=category%5B%5DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort)
+
+### Day 7: July 9, Tuesday
+
+**Today's Progress**: 
+I did a lot of Development, but couldn't practice DSA today
+- Started another project following @jonasschmedtman
+- Made progress in Node.js, and learned how req/res works
+
+**Thoughts:** It was a somewhat productive day, most of the time was spent building or learning web development. I would like to spend more time learning DSA but I cannot divide time between dsa and development properly.
+
+### Day 8: July 10, Monday
+
+**Today's Progress**: 
+Felt under the weather today, so I mostly practiced DSA questions and called it a day.
+
+**Thoughts:** I have developed major back pain due to prolonged sitting, it is hindering in my learning process. I need to fix it somehow
+
+#
